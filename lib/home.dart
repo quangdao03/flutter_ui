@@ -66,9 +66,9 @@ class _HomeScreenState extends State<HomeScreen> {
       // theme: ThemeData(
       //   primarySwatch: Colors.blue,
       // ),
+      
       home: Scaffold(
         extendBody: true,
-        
         body: Center(
           child: FutureBuilder<List<Album>>(
             future: futureAlbum,

@@ -42,7 +42,7 @@ class _BatteryDetailState extends State<BatteryDetail> {
                                     
                                   Padding(
                                     padding:  const EdgeInsets.symmetric(vertical: 2),
-                                    child: Image.asset('assets/images/pin 3.png',fit: BoxFit.fill,height: 200,)),
+                                    child: Image.asset('assets/images/pin 3.png',fit: BoxFit.cover,height: 200,)),
                                     Padding(
                                       
                                       padding: const EdgeInsets.only(left:20 ,right:20,top: 10, bottom: 10),
