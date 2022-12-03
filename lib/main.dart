@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_ui/home.dart';
 
 
-void main() => runApp(const MyApp());
+// void main() => runApp(const MyApp());
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
